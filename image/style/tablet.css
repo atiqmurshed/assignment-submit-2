@@ -1,0 +1,15 @@
+
+/* media quary tablet devise responsive */
+
+@media  screen and (Max-width: 576px) {
+   .nav,
+   .list-item, 
+   .banner, 
+   .parent-div,
+   .miles,
+   .table-section,
+   .head-div
+   {
+    flex-direction: column;
+   } 
+}
